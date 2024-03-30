@@ -8,7 +8,7 @@ I'm a budding web developer eager to make my mark in the exciting world of tech.
 
 - Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js
 - Backend: Node.js
-- Other: Git
+- Other: Git, Github, SQL, C++
 
 ### Experience
 
