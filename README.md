@@ -6,7 +6,7 @@ I'm a budding web developer eager to make my mark in the exciting world of tech.
 
 ### Skills
 
-- Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js
+- Frontend: HTML, CSS, TypeScript, JavaScript, Bootstrap, Tailwind, React.js
 - Backend: Node.js, Express.Js and FastApi
 - Other: Git, Github, SQL, C++
 
